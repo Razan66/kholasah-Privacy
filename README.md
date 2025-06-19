@@ -1,2 +1,2 @@
-# kholasah-privacy
+# kholasah-Privacy
 Privacy Policy for Kholasah App
